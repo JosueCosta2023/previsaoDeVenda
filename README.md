@@ -4,6 +4,8 @@ Este projeto é um **Sistema de Suporte à Decisão (SSD)** desenvolvido para pr
 
 Utilizando conceitos de **Machine Learning** aplicados no navegador, o sistema foi construído com **JavaScript**, **ml5.js**, **TensorFlow.js** e estilizado com **Bootstrap**.
 
+## Atenção!!! Os Dados do sistema são fictíceos.
+
 ---
 
 ## 🚀 Funcionalidades
@@ -47,8 +49,11 @@ Utilizando conceitos de **Machine Learning** aplicados no navegador, o sistema f
 ## 🧠 Estrutura do Projeto
 
 /sistema-sorvetes/
+
 ├── index.html # Estrutura da página
+
 ├── dadosTreino.js # Base de dados de treino simulada
+
 ├── modeloTreino.js # Funções para treinar e prever vendas
 
 ---
@@ -80,7 +85,7 @@ Caso queira conversar mais sobre o projeto ou trocar ideias sobre Machine Learni
 
 ### Ilustração
 
-![dashboard](/public/logindash.png)
+![dashboard](previsao.png)
 
 --- 
 
@@ -98,6 +103,6 @@ Caso queira conversar mais sobre o projeto ou trocar ideias sobre Machine Learni
 
 # "Vida longa e próspera. 🖖🖖🖖"
 Feito com o ❤️ por Josué Ocanha Costa
-## [Acesse o Deploy](https://finance-ai-gilt.vercel.app/)
-### [Acesse o repositório](https://github.com/JosueCosta2023/finance-ai)
+## [Acesse o Deploy](https://josuecosta2023.github.io/previsaoDeVenda/)
+### [Acesse o repositório](https://github.com/JosueCosta2023/previsaoDeVenda)
 
