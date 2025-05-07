@@ -78,3 +78,26 @@ Caso queira conversar mais sobre o projeto ou trocar ideias sobre Machine Learni
 ---
 
 
+### Ilustração
+
+![dashboard](/public/logindash.png)
+
+--- 
+
+
+## Author
+### Josué Ocanha Costa
+#### FrontEnd Developer
+#### Redes Sociais
+
+- Linkedin - [JosueOcanhaCosta](https://www.linkedin.com/in/josue-ocanha-costa/)
+- Github - [JosueCosta2023](https://github.com/JosueCosta2023)
+- Twitter - [@JosueOcanhaCosta](https://twitter.com/josue_ocanha)
+- Facebook - [JosueCosta](https://www.facebook.com/JosueOcanhaCosta2023)
+- Whatsapp - [Josue2023](https://wa.me/5565996408371?text=Ol%C3%A1%2C+encontrei+seu+whatsapp+no+Github.+Gostaria+de+falar+sobre+seus+projetos.)
+
+# "Vida longa e próspera. 🖖🖖🖖"
+Feito com o ❤️ por Josué Ocanha Costa
+## [Acesse o Deploy](https://finance-ai-gilt.vercel.app/)
+### [Acesse o repositório](https://github.com/JosueCosta2023/finance-ai)
+
