@@ -3,7 +3,7 @@ let model;
 async function treinar() {
     await tf.ready();
 
-    model = ml5.neuralNetwork({ task: 'regression', debug: true });
+    model = ml5.neuralNetwork({ task: 'regression', debug: false });
 
     // 🔥 Aqui usamos a lista de dados para alimentar o modelo
     //   Importada via excopo global pela simplicidade do projeto.
